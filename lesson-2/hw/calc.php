@@ -1,6 +1,6 @@
 <?php
 
-git class Calc
+class Calc
 {
     /**
      * Error codes
