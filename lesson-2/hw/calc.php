@@ -1,6 +1,6 @@
 <?php
 
-class Calc
+final class Calculator
 {
     /**
      * Error codes
@@ -75,7 +75,7 @@ class Calc
     }
 }
 
-new Calc();
+new Calculator();
 
 
 

@@ -1,0 +1,13 @@
+{
+    "name": "luka2i/hw",
+    "require": {
+        "symfony/console": "~2.5"
+    },
+    "authors": [
+        {
+            "name": "ivan lukianchuk",
+            "email": "mriynyk@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
